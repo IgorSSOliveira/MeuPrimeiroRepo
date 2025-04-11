@@ -55,6 +55,12 @@ body {
     color: white;
 }
 
+.bannerLogin {
+    background-image: url(../assets/imgs/bg-jelly-fish-para-home.png);
+    height: 629px;
+    background-size: 125%;
+}
+
 .banner .container {
     width: 500px;
     height: 100%;
@@ -125,8 +131,22 @@ body {
     align-items: center;
 }
 
+.footer .containerLogin {
+    height: 60px;
+}
+
 
 .navbar .agora {
     font-weight: 900;
     border-bottom: orange solid 2px;
+}
+
+/* LOGIN */
+
+.login {
+    position: absolute;
+}
+
+.card {
+    background-color:rgb(235, 235, 235);
 }
