@@ -145,8 +145,16 @@ body {
 
 .login {
     position: absolute;
+    top: 32%;
+    left: 34%;
+    height: 300px;
+    width: 500px;
 }
 
 .card {
     background-color:rgb(235, 235, 235);
+    height: 300px;
+    width: 500px;
+    display: flex;
+    border-radius: 2%;
 }
